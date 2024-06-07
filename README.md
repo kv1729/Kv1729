@@ -39,7 +39,7 @@ Some things about me : </div>
 
 - 💬 Ask me about **Reactjs & React-Native**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **kunal.dixit14@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
