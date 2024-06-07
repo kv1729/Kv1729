@@ -29,19 +29,19 @@ Some things about me : </div>
 </a>
  -->
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Deep Learning
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Deeplearning && NLU <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly write articles on https://kunal1729.wordpress.com/author/kunal1729/
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **kunal.dixit14@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/kv1729/Kv1729" target="blank">Github</a>
 <br/>
 <div align = "center">
 
