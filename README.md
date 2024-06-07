@@ -35,7 +35,7 @@ Some things about me : </div>
 
 - 🌱 I’m currently learning Deeplearning && NLU <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 📝 I regularly write articles on https://kunal1729.wordpress.com/author/kunal1729/
+- 📝 I regularly write articles on <a herf = "https://kunal1729.wordpress.com/author/kunal1729/" traget="blank">Wordpress</a> &&<a herf = "https://medium.com/litbytes" traget="blank">Medium</a>
 
 - 💬 Ask me about **Python**
 
