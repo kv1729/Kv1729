@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Practical+AI+Systems;AI+Workflow+Automation+%26+Backend+Engineering;FastAPI+%7C+Structured+AI+Workflows+%7C+RAG;Applied+AI+%26+Operational+Intelligence;Learning+Through+Execution+%26+Systems+Thinking" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Practical+AI+Systems;Workflow+Automation+%7C+Backend+Engineering+%7C+Operational+AI" alt="Typing SVG" />
   </a>
 </p>
 
